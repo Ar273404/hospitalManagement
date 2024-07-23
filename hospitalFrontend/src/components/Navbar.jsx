@@ -84,7 +84,7 @@ const Navbar = () => {
             </li>
             <li className=" lg:py-3 px-3">
               <Link
-                to={"/"}
+                to={"https://hospitalmanagementadmin.onrender.com"}
                 className="hover:text-[#007bff] text-gray-500 block font-semibold text-[15px]">
                 Admin
               </Link>
@@ -198,7 +198,7 @@ const Navbar = () => {
               </li>
               <li>
                 <Link
-                  to={"/"}
+                  to={"https://hospitalmanagementadmin.onrender.com"}
                   className="text-black hover:text-blue-600  flex items-center hover:bg-blue-50 rounded px-4 py-3 transition-all">
                   <MdDashboard className="mr-1 w-7 font-bold text-blue-700" />
                   Admin
