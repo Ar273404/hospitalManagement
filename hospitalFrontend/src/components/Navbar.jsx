@@ -84,7 +84,7 @@ const Navbar = () => {
             </li>
             <li className=" lg:py-3 px-3">
               <Link
-                to={"https://hospitalmanagementadmin.onrender.com"}
+                to={"http://localhost:3001"}
                 className="hover:text-[#007bff] text-gray-500 block font-semibold text-[15px]">
                 Admin
               </Link>

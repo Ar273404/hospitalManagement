@@ -1,1 +1,1 @@
-export const url = "https://hospitalmanagement-bum9.onrender.com";
+export const url = "http://localhost:4000";
